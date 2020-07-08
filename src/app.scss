@@ -1,0 +1,10 @@
+$colore_primario: red;
+$colore_secondario: green;
+
+h1, a {
+  color: $colore_primario;
+}
+
+h2, p {
+  color: $colore_secondario;
+}
